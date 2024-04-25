@@ -1,1 +1,1 @@
-App Launch even
+App Launch event
